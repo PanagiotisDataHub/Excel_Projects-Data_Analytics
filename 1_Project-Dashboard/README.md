@@ -100,11 +100,11 @@ The **horizontal bar chart** visualizes **median salaries based on job schedule 
 
 ### ❎ Data Validation  
 
-🔍 **Filtered List** – Applied as a **data validation rule** for **Job Title, Country, and Schedule Type** dropdowns.  
-🔒 **Enhanced Data Validation** – Ensures:  
-🎯 **User input is restricted** to **validated schedule types**.  
-🚫 **Prevents incorrect or inconsistent data entries**.  
-👥 **Improves dashboard usability** by enforcing **clean and structured data input**.  
+- **Filtered List** – Applied as a **data validation rule** for **Job Title, Country, and Schedule Type** dropdowns.  
+- **Enhanced Data Validation** – Ensures:  
+- **User input is restricted** to **validated schedule types**.  
+- **Prevents incorrect or inconsistent data entries**.  
+- **Improves dashboard usability** by enforcing **clean and structured data input**.  
 
  ![1_Salary_Dashboard_Data_Validation](https://github.com/user-attachments/assets/32ed2bc5-8260-4086-ba24-e5218ecf58d4)
 
