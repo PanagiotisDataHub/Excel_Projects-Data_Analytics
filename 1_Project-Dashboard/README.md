@@ -92,7 +92,7 @@ This table **drives the bar chart** for **median salary by schedule types** and 
 
 ![1_Salary_Dashboard_Screenshot2](https://github.com/user-attachments/assets/e10d7232-1b0b-497c-b31b-032ae93854c7)
 
-## 📉 Dashboard Implementation  
+### 📉 Dashboard Implementation  
 
 The **horizontal bar chart** visualizes **median salaries based on job schedule types**, enabling users to **compare salary variations by work schedule**.  
 
