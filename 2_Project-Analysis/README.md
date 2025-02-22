@@ -32,12 +32,12 @@ This dataset provides **detailed insights into data-related jobs from 2023**, he
 
 ---
 
-## 1️⃣ Do more skills get you better pay?  
+## 1. Do more skills get you better pay?  
 
 ### **🔍 Tool Used: Power Query (ETL)**  
 
 **📥 Extract**  
-- I used **Power Query** to extract the original dataset (**data_salary_all.xlsx**) and created two queries:
+- I used **Power Query** to extract the original dataset ```data_salary_all.xlsx``` and created two queries:
   - **First one with all the data jobs information**, focusing on salaries.  
   - **Another listing the skills associated with each job ID.**    
 
@@ -70,17 +70,19 @@ This dataset provides **detailed insights into data-related jobs from 2023**, he
 
 ---
 
-## 2️⃣ What’s the salary for data jobs in different regions?  
+## 2. What’s the salary for data jobs in different regions?  
 
-### **🛠 Tools Used: PivotTables & DAX**  
+### **🛠 Tool Used: PivotTables & DAX**  
 
-**📈 Pivot Table**  
-- Used **Power Pivot** to structure salary data by **job title and region**.  
-- Created a **PivotTable** to compare median salaries between **US and Non-US** locations.  
+📈 **Pivot Table**  
+- Using **Power Pivot** and the **data model**, I created a **PivotTable** with ```job_title_short``` in the rows and ```salary_year_avg``` in the values section.  
+- Then, I added a **new measure** to calculate the **median salary for United States jobs**.  
+- *(I would have liked to focus this on Greece, but not enough data was present in the dataset to get relevant information.)*  
 
-**🧮 DAX Calculation**  
 ```excel
 =CALCULATE(
     MEDIAN(data_jobs_all[salary_year_avg]),
     data_jobs_all[job_country] = "United States"
 )
+```
+
