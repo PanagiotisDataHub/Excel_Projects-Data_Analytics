@@ -86,3 +86,74 @@ This dataset provides **detailed insights into data-related jobs from 2023**, he
 )
 ```
 
+🧮 **DAX**  
+To determine the **median yearly salary**, I utilized **DAX** for accurate calculations.  
+
+```excel
+Median Salary := MEDIAN(data_jobs_all[salary_year_avg])
+```
+
+### **📊 Analysis**  
+
+- 💼 **Senior Data Engineer** and **Data Scientist** roles offer **higher median salaries** both in the **US and internationally**, emphasizing the **global demand for advanced data expertise** and the need for **competitive salary negotiation**.  
+- 💰 A **significant salary gap** exists between **US and Non-US positions**, particularly in **high-tech jobs**, making it essential for professionals to **align salary expectations** with market standards.  
+- 🌍 **Non-US regions may be underrepresented** in the dataset, highlighting the importance of **researching local salary data** to ensure **fair compensation**.  
+
+![2_Project_Analysis_Chart2](https://github.com/user-attachments/assets/099a3a15-9e67-4c23-9e23-b85fc819bc62)
+
+---
+
+## 3. What are the top skills of data professionals?  
+
+### **🛠 Tool Used: Power Pivot**  
+
+💪 **Power Pivot**  
+- Integrated the ```data_jobs_all``` and ```data_jobs_skills``` tables into **one model**.  
+- Since the data was already cleaned in **Power Query**, Power Pivot automatically created a **relationship between these tables**.  
+
+🔗 **Data Model**  
+- Established a **relationship between both tables** using the ```job_id``` column. 
+
+![2_Project_Analysis_Screenshot5](https://github.com/user-attachments/assets/aeb705b5-030c-413a-af83-49105402ac3d)
+
+📃 **Power Pivot Menu**  
+- The **Power Pivot menu** was used to refine the data model, allowing for **easier calculation of measures**.  
+
+ ![2_Project_Analysis_Screenshot6](https://github.com/user-attachments/assets/bd5b50f5-9946-4ee2-84a3-188a32a67a7e)
+
+### **📊 Analysis**  
+
+- 💻 **SQL and Python** dominate as **the most in-demand skills** in data-related jobs, reinforcing their role as **essential tools in data processing and analysis**.  
+- ☁️ **Cloud platforms like AWS and Azure** have a strong presence, highlighting the industry’s **transition towards cloud computing and big data technologies**.  
+- 🎯 Understanding which skills are most sought after **helps professionals stay competitive** and enables **educational programs to focus on the most valuable technologies**.  
+
+![2_Project_Analysis_Chart3](https://github.com/user-attachments/assets/5c96c3c9-00b0-4389-9346-2f23b1d1bdb3)
+
+---
+
+## 4. What’s the pay of the top 10 skills?  
+
+### **🛠 Tool Used: Advanced Charts (Pivot Chart)**  
+
+📈 **PivotChart**  
+- Created a **combo PivotChart** to visualize **median salary** alongside **skill likelihood (%)** from the **PivotTable**.  
+  - **Primary Axis:** Displays **Median Salary** using a **Clustered Column** chart.  
+  - **Secondary Axis:** Shows **Skill Likelihood (%)** as a **Line with Markers**.  
+- Customized the chart by **adding titles**, **removing unnecessary gridlines**, and **changing markers to diamonds** for better clarity.  
+
+### **📊 Analysis**  
+
+- 💰 **Higher median salaries** are strongly linked to **skills like Python, Oracle, and SQL**, emphasizing their importance in **high-paying tech roles**.  
+- 📉 **Skills like PowerPoint and Word** tend to have **lower median salaries and demand**, indicating that **general office tools are less valued in high-paying data jobs**.  
+- 🎯 This reinforces the importance of **investing in specialized technical skills**, particularly for professionals looking to **maximize their salary potential**.
+
+![2_Project_Analysis_Chart4](https://github.com/user-attachments/assets/f1338cec-5187-41b9-8126-010b3f653d2c)
+
+## **🏁 Conclusion**  
+
+This project allowed me to explore **key trends in the data science job market** while strengthening my **Excel skills**. By analyzing **real-world job postings**, I examined **job titles, salaries, locations, and in-demand skills**, helping job seekers make **informed career decisions**.  
+
+Through **Power Query, PivotTables, DAX, and advanced charts**, I identified **strong correlations between technical skills and salary levels**, particularly in **Python, SQL, and cloud technologies**.  
+
+I hope this project not only offers **valuable insights into the data job market** but also showcases the **Excel features and functionalities** I learned through the **Excel for Data Analytics course**.  
+
