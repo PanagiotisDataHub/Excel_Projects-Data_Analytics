@@ -30,11 +30,6 @@ This salary dashboard was created to help **job seekers and professionals** anal
 ## 📈 Salary Analysis  
 As someone passionate about data, I wanted to analyze the **best-paying jobs and most in-demand skills** in the data industry. This project allowed me to explore **key trends in the data job market** while also improving my **Excel skills** by using advanced data analysis features. 
 
-I analyzed:  
-- **The most in-demand skills** employers are looking for  
-- **How different skills impact salary levels**  
-- **The best strategies to increase earning potential**  
-
 🔗 **Check out the analysis here:** [2_Project-Analysis](2_Project-Analysis)  
 
 📌 **Key Features:**  
