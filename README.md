@@ -13,7 +13,7 @@ The dataset used for this analysis comes from the [Excel for Data Analytics Cour
 ---
 
 ## 📊 Salary Dashboard  
-This dashboard provides insights into data job postings, helping professionals and job seekers **analyze salaries** for their current or desired roles. It ensures they are being **fairly compensated** based on industry standards.  
+This salary dashboard was created to help **job seekers and professionals** analyze salaries for **data-related roles** and ensure they are **fairly compensated for their desired jobs**.  
 
 🔗 **Check out the dashboard here:** [1_Project-Dashboard](1_Project-Dashboard)  
 
@@ -28,7 +28,7 @@ This dashboard provides insights into data job postings, helping professionals a
 ---
 
 ## 📈 Salary Analysis  
-As someone interested in data jobs, my goal with this project was to explore **the most valuable jobs and skills** in the data science market while also learning and applying new Excel functionalities.  
+As someone passionate about data, I wanted to analyze the **best-paying jobs and most in-demand skills** in the data industry. This project allowed me to explore **key trends in the data job market** while also improving my **Excel skills** by using advanced data analysis features. 
 
 I analyzed:  
 - **The most in-demand skills** employers are looking for  
