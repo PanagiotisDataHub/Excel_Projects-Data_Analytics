@@ -38,4 +38,5 @@ As someone passionate about data, I wanted to analyze the **best-paying jobs and
 - **Top-paying positions** and skill correlations  
 
 ### 🔍 Sneak Peek  
-![Presentation2-github](https://github.com/user-attachments/assets/70115927-330a-4918-9871-49559d09b75d)  
+![Project_Analysis_1](https://github.com/user-attachments/assets/4542df5c-75cf-407c-92dc-048f8f8bd9c3)
+

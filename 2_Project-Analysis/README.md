@@ -143,9 +143,9 @@ Median Salary := MEDIAN(data_jobs_all[salary_year_avg])
 
 ### **💡 Analysis**  
 
--  **Higher median salaries** are strongly linked to **skills like Python, Oracle, and SQL**, emphasizing their importance in **high-paying tech roles**.  
--  **Skills like PowerPoint and Word** tend to have **lower median salaries and demand**, indicating that **general office tools are less valued in high-paying data jobs**.  
--  This reinforces the importance of **investing in specialized technical skills**, particularly for professionals looking to **maximize their salary potential**.
+- Higher median salaries are strongly linked to skills like Python, Oracle, and SQL, emphasizing their importance in securing high-paying tech roles.  
+- Skills like PowerPoint and Word tend to have lower median salaries and demand, indicating that general office tools are less valued in high-paying data jobs.  
+- Investing in specialized technical skills, particularly Python and SQL, is crucial for professionals aiming to maximize their salary potential in the tech industry.  
 
 ![2_Project_Analysis_Chart4](https://github.com/user-attachments/assets/f1338cec-5187-41b9-8126-010b3f653d2c)
 
