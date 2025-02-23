@@ -2,9 +2,7 @@
 ![Presentation1-github](https://github.com/user-attachments/assets/322a9c73-8513-4638-9dde-df7f1185a194)
 
 ## Introduction  
-This salary dashboard was designed to help job seekers and professionals analyze salaries for various data-related roles and ensure they receive fair compensation.  
-
-The dataset comes from the [Excel for Data Analytics Course](https://youtu.be/pCJ15nGFgVg?si=skanFq232Z0CcfGg) course by [Luke Barousse](https://github.com/lukebarousse) and [Kelly Adams](https://github.com/kellyjadams). It includes real-world job postings from 2023, providing insights into job titles, salaries, locations, and required skills.  
+This salary dashboard was created to help **job seekers and professionals** analyze salaries for **data-related roles** and ensure they are **fairly compensated for their desired jobs**.        
 
 ### Excel Skills Used  
 - 📉 **Charts** – Data visualization using bar and map charts  
