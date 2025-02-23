@@ -6,9 +6,12 @@ This salary dashboard was designed to help job seekers and professionals analyze
 
 The dataset comes from the [Excel for Data Analytics Course](https://youtu.be/pCJ15nGFgVg?si=skanFq232Z0CcfGg) course by [Luke Barousse](https://github.com/lukebarousse) and [Kelly Adams](https://github.com/kellyjadams). It includes real-world job postings from 2023, providing insights into job titles, salaries, locations, and required skills.  
 
----
+### Excel Skills Used  
+- 📉 **Charts** – Data visualization using bar and map charts  
+- 🧮 **Formulas & Functions** – Salary calculations and filtering  
+- ❎ **Data Validation** – Interactive dropdowns for filtering job details  
 
-## Data Jobs Dataset  
+### Data Jobs Dataset  
 This dataset offers a **detailed snapshot of the data job market**, helping professionals understand salary trends and skill demands. It is based on job postings from **2023** and serves as a valuable resource for industry insights.  
 
 This dataset includes detailed information on:  
@@ -16,18 +19,6 @@ This dataset includes detailed information on:
 - 💰 **Salaries** – Median salary figures based on job type and location  
 - 📍 **Locations** – Country-based salary variations  
 - 🛠️ **Skills** – Most in-demand technical and analytical skills  
-
----
-
-## Dashboard File  
-- **Final Dashboard**: [1_Salary_Dashboard.xlsx](1_Salary_Dashboard.xlsx)  
-
----
-
-## Excel Skills Used  
-- 📉 **Charts** – Data visualization using bar and map charts  
-- 🧮 **Formulas & Functions** – Salary calculations and filtering  
-- ❎ **Data Validation** – Interactive dropdowns for filtering job details  
 
 ---
 
@@ -112,8 +103,8 @@ The **horizontal bar chart** visualizes **median salaries based on job schedule 
 
 ## 🏁 Conclusion  
 
-I created this dashboard to **analyze salary trends** across various **data-related roles**, providing **valuable salary insights** for job seekers and professionals.  
+I created this dashboard to **demonstrate my Excel skills** in data analysis while exploring **salary trends** across various **data-related roles**. This project provides **valuable insights** into how **job titles, locations, and work schedules** influence salaries.  
 
-By leveraging **real-world job postings**, this project highlights how **job title, location, and work schedule** impact salary levels, helping users make **informed career decisions**.  
+Using data from the **Excel for Data Analytics course**, this dashboard aims to **help job seekers and professionals** make **better-informed career decisions** based on real-world salary trends.  
 
 
