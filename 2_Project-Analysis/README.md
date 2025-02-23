@@ -60,11 +60,11 @@ This dataset provides **detailed insights into data-related jobs from 2023**, he
 🛠️ **data_job_skills**  
 ![2_Project_Analysis_Screenshot4](https://github.com/user-attachments/assets/014bb36f-cdd8-4e39-80ea-0a4ba809cf6a)
 
-### **📊 Analysis**  
+### **💡 Analysis**  
 
-- 📈 There is a **clear connection** between the **number of skills required in job postings and median salary**—jobs that demand **more skills** tend to list **higher salaries**, especially for roles like **Senior Data Engineer** and **Data Scientist**.  
-- 💼 Roles with **fewer required skills**, such as **Business Analyst**, generally offer **lower salaries**, reinforcing the idea that **specialized skill sets** command **higher market value**.  
-- 🔍 Acquiring **multiple relevant skills** is crucial for **workers and job seekers** looking to **increase their earning potential** in the data industry.  
+-  There is a **clear connection** between the **number of skills required in job postings and median salary**—jobs that demand **more skills** tend to list **higher salaries**, especially for roles like **Senior Data Engineer** and **Data Scientist**.  
+-  Roles with **fewer required skills**, such as **Business Analyst**, generally offer **lower salaries**, reinforcing the idea that **specialized skill sets** command **higher market value**.  
+-  Acquiring **multiple relevant skills** is crucial for **workers and job seekers** looking to **increase their earning potential** in the data industry.  
 
 ![2_Project_Analysis_Chart1](https://github.com/user-attachments/assets/9b348dcb-cd32-4ef4-922c-fd2bdf4fe5ba)  
 
@@ -93,11 +93,11 @@ To determine the **median yearly salary**, I utilized **DAX** for accurate calcu
 Median Salary := MEDIAN(data_jobs_all[salary_year_avg])
 ```
 
-### **📊 Analysis**  
+### **💡 Analysis**  
 
-- 💼 **Senior Data Engineer** and **Data Scientist** roles offer **higher median salaries** both in the **US and internationally**, emphasizing the **global demand for advanced data expertise** and the need for **competitive salary negotiation**.  
-- 💰 A **significant salary gap** exists between **US and Non-US positions**, particularly in **high-tech jobs**, making it essential for professionals to **align salary expectations** with market standards.  
-- 🌍 **Non-US regions may be underrepresented** in the dataset, highlighting the importance of **researching local salary data** to ensure **fair compensation**.  
+-  **Senior Data Engineer** and **Data Scientist** roles offer **higher median salaries** both in the **US and internationally**, emphasizing the **global demand for advanced data expertise** and the need for **competitive salary negotiation**.  
+-  A **significant salary gap** exists between **US and Non-US positions**, particularly in **high-tech jobs**, making it essential for professionals to **align salary expectations** with market standards.  
+-  **Non-US regions may be underrepresented** in the dataset, highlighting the importance of **researching local salary data** to ensure **fair compensation**.  
 
 ![2_Project_Analysis_Chart2](https://github.com/user-attachments/assets/099a3a15-9e67-4c23-9e23-b85fc819bc62)
 
@@ -121,11 +121,11 @@ Median Salary := MEDIAN(data_jobs_all[salary_year_avg])
 
  ![2_Project_Analysis_Screenshot6](https://github.com/user-attachments/assets/bd5b50f5-9946-4ee2-84a3-188a32a67a7e)
 
-### **📊 Analysis**  
+### **💡 Analysis**  
 
-- 💻 **SQL and Python** dominate as **the most in-demand skills** in data-related jobs, reinforcing their role as **essential tools in data processing and analysis**.  
-- ☁️ **Cloud platforms like AWS and Azure** have a strong presence, highlighting the industry’s **transition towards cloud computing and big data technologies**.  
-- 🎯 Understanding which skills are most sought after **helps professionals stay competitive** and enables **educational programs to focus on the most valuable technologies**.  
+-  **SQL and Python** dominate as **the most in-demand skills** in data-related jobs, reinforcing their role as **essential tools in data processing and analysis**.  
+-  **Cloud platforms like AWS and Azure** have a strong presence, highlighting the industry’s **transition towards cloud computing and big data technologies**.  
+-  Understanding which skills are most sought after **helps professionals stay competitive** and enables **educational programs to focus on the most valuable technologies**.  
 
 ![2_Project_Analysis_Chart3](https://github.com/user-attachments/assets/5c96c3c9-00b0-4389-9346-2f23b1d1bdb3)
 
@@ -141,11 +141,11 @@ Median Salary := MEDIAN(data_jobs_all[salary_year_avg])
   - **Secondary Axis:** Shows **Skill Likelihood (%)** as a **Line with Markers**.  
 - Customized the chart by **adding titles**, **removing unnecessary gridlines**, and **changing markers to diamonds** for better clarity.  
 
-### **📊 Analysis**  
+### **💡 Analysis**  
 
-- 💰 **Higher median salaries** are strongly linked to **skills like Python, Oracle, and SQL**, emphasizing their importance in **high-paying tech roles**.  
-- 📉 **Skills like PowerPoint and Word** tend to have **lower median salaries and demand**, indicating that **general office tools are less valued in high-paying data jobs**.  
-- 🎯 This reinforces the importance of **investing in specialized technical skills**, particularly for professionals looking to **maximize their salary potential**.
+-  **Higher median salaries** are strongly linked to **skills like Python, Oracle, and SQL**, emphasizing their importance in **high-paying tech roles**.  
+-  **Skills like PowerPoint and Word** tend to have **lower median salaries and demand**, indicating that **general office tools are less valued in high-paying data jobs**.  
+-  This reinforces the importance of **investing in specialized technical skills**, particularly for professionals looking to **maximize their salary potential**.
 
 ![2_Project_Analysis_Chart4](https://github.com/user-attachments/assets/f1338cec-5187-41b9-8126-010b3f653d2c)
 
