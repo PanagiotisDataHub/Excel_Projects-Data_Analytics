@@ -8,7 +8,7 @@ These projects serve two purposes:
 1. **Showcasing my skills** in Excel for data analysis—both existing and newly acquired throughout the course.  
 2. **Providing insights** for job seekers and professionals in the data job market, helping them understand **in-demand skills** and **expected compensation** for various positions.  
 
-The dataset used for this analysis comes from the [Excel for Data Analytics Course](https://youtu.be/pCJ15nGFgVg?si=skanFq232Z0CcfGg) by [Luke Barousse](https://github.com/lukebarousse) and [Kelly Adams](https://github.com/kellyjadams). It includes **real-life job postings** from 2023, covering **job titles, salary averages, locations, and required skills.**  
+The dataset used for this analysis comes from the [Excel for Data Analytics Course](https://youtu.be/pCJ15nGFgVg?si=8MiwLIkCoGxT6vpZ) by [Luke Barousse](https://github.com/lukebarousse) and [Kelly Adams](https://github.com/kellyjadams). It includes **real-life job postings** from 2023, covering **job titles, salary averages, locations, and required skills.**  
 
 ---
 
